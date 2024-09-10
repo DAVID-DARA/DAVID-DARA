@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [eCommerce-API](https://github.com/DAVID-DARA/eCommerce-API)
 
-- 🌱 I’m currently learning **React, React-Native**
+- 🌱 I’m currently learning **React & React-Native**
 
 - 📫 How to reach me **davidfamoyegun@gmail.com**
 
