@@ -1,11 +1,45 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate software engineer from Nigeria</h3>
 
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 - 🔭 I’m currently working on [eCommerce-API](https://github.com/DAVID-DARA/eCommerce-API)
 
-- 🌱 I’m currently learning **React, React-Native**
+- 🌱 I’m currently learning **React & React-Native**
 
 - 📫 How to reach me **davidfamoyegun@gmail.com**
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=DAVID-DARA&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DAVID-DARA&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DAVID-DARA&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=DAVID-DARA&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
